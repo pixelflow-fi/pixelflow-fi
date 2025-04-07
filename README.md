@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hei 👋
 
-<!--
-**pixelflow-fi/pixelflow-fi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olemme uusi IT-alan yritys, joka keskittyy pääasiallisesti nettiteknologioihin.
 
-Here are some ideas to get you started:
+Tarjoamme seuraavia palveluita
+- Nettisivujen suunnittelu
+- Nettisivujen kehittäminen
+- Sovellusten suunnittelu
+- Sovellusten kehittäminen
+- It-alan konsultointi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Osaamme monia eri teknoligoita, mutta lemppareihimme kuuluvat:
+
+- NextJS ja React
+- Supabase
+- NodeJS
+
+Mikäli olet kiinnostunut palveluistamme, ota meihin ihmeessä yhteyttä [tästä linkistä](https://pixelflow.fi/fi/contact) tai sähköpostilla [contact@pixelflow.fi](mailto:contact@pixelflow.fi)
+
+## Hi 👋
+
+We are a new IT-company that focuses on web technologies.
+
+We offer theses services
+- Website design
+- Website programming
+- Application design
+- Application develoapment
+- It consulting
+
+We can use many different technologies but these are our favourites
+
+- NextJS and React
+- Supabase
+- NodeJS
+
+Contact us with [this link](https://pixelflow.fi/en/contact) or by email [contact@pixelflow.fi](mailto:contact@pixelflow.fi)
